@@ -1,0 +1,13 @@
+_site/
+*.gem
+*.swp
+*.swo
+.DS_Store
+
+# Sass artifacts
+assets/css/main.css
+assets/css/*.css.map
+
+# Jekyll caches
+.jekyll-cache/
+.sass-cache/

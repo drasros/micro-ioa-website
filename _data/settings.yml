@@ -1,0 +1,37 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: '' # 'UA-112060364-2'
+
+menu:
+# - {name: 'μ-IOA',  url: 'micro-ioa'}
+- {name: 'Early Note', url: 'note'}
+- {name: 'Publications',       url: 'publications'}
+- {name: 'Videos',      url: 'videos'}
+- {name: 'Data & Applications',      url: 'data' }
+- {name: 'Workshops & Challenges',      url: 'workshop' }
+- {name: 'Support us!',      url: 'support' }
+- {name: 'About',              url: 'about'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+# social:
+# - {icon: 'twitter', link:    'https://twitter.com/paululele'}
+# - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+# - {icon: 'instagram', link:  'https://instagram.com/paululele'}
+# - {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
+# - {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'

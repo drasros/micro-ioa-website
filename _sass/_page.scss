@@ -1,0 +1,16 @@
+.page-content {
+  max-width: 600px;
+  display: block;
+  margin: 10px auto 10px;
+  padding: 0px 10px 10px;
+}
+
+a {
+  color: #007acc; /* your desired link color */
+  text-decoration: none;
+
+  &:hover {
+    color: #005fa3; /* darker on hover */
+    text-decoration: underline;
+  }
+}

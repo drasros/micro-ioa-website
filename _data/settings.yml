@@ -11,6 +11,7 @@ menu:
 - {name: 'Early Note', url: 'note'}
 - {name: 'Publications',       url: 'publications'}
 - {name: 'Videos',      url: 'videos'}
+- {name: 'Resources',      url: 'resources'}
 - {name: 'Data & Applications',      url: 'data' }
 - {name: 'Workshops & Challenges',      url: 'workshop' }
 - {name: 'Support us!',      url: 'support' }

@@ -4,11 +4,17 @@ title: Early Note
 permalink: /note
 ---
 
-### 📌 Why this note?
+<div class="highlight-box">
+  <h3 style="margin-top: 0;">📌 Why this note?</h3>
+  <p>
+    This document, <a href="/assets/pdf/note.pdf">"Beyond Sector Averages: Disaggregated Input-Output Methods for Individual-Level Environmental Accounting"</a>, is an early working paper. It began as a personal "self-note"—my attempt to teach myself the intricacies of environmental input-output analysis by writing everything down.
+  </p>
+  <p>
+    As I dove into the topic, I found that while the high-level concepts are discussed in academia, the practical path to achieving <em>true</em>, <em>transaction-scale</em> accounting remained unclear. This note is the result of that deep dive. It's part literature review, part synthesis of existing ideas in my own words, and part new proposal.
+  </p>
+</div>
 
-This document, ["Beyond Sector Averages: Disaggregated Input-Output Methods for Individual-Level Environmental Accounting"](/assets/pdf/note.pdf), is an early working paper. It began as a personal "self-note"—my attempt to teach myself the intricacies of environmental input-output analysis by writing everything down.
 
-As I dove into the topic, I found that while the high-level concepts are discussed in academia, the practical path to achieving _true_, _transaction-scale_ accounting remained unclear. This note is the result of that deep dive. It's part literature review, part synthesis of existing ideas in my own words, and part new proposal.
 
 ### 🔍 Key contributions
 

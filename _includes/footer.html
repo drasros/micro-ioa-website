@@ -1,6 +1,18 @@
-<footer class="footer">
+<footer class="footer" style="padding: 1.2em 0; line-height: 1.5;">
   {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    <a href="{{ item.link }}" class="menu-link" target="_blank" style="margin: 0 0.5em;">
+      <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
+    </a>
   {% endfor %}
-  <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }} by {{ site.author }}</a></div>
+
+  <div class="footer-description" style="margin: 0 0 0.3em; font-size: 0.95em;">
+    <a href="{{ site.github.url }}/">
+      {{ site.title }} | {{ site.description }} by {{ site.author }}
+    </a>
+  </div>
+
+  <div class="footer-collab-message" style="margin: 0; font-size: 0.85em; color: #777;">
+    This site is part of an open, collaborative research effort. Want to get involved?
+    <a href="/support">Learn how</a>.
+  </div>
 </footer>

@@ -15,8 +15,10 @@ dl, dd, ol, ul, figure {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'IBM Plex Serif', serif;
+  color: #2E2F2B;
+  font-weight: 500;
   margin-bottom: .5rem;
-  font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
@@ -40,6 +42,8 @@ h4, h5, h6 {
 /* Body */
 body {
   font-family: $base-font-family;
+  background-color: #f8f9f6;
+  color: #2A2A2A;
 }
 body img {
   align: middle;
@@ -88,21 +92,27 @@ dd {
 */
 
 a {
-  color: $brand-color;
+  color: #1a73e8;
   text-decoration: none;
+
+  &:hover {
+    color: darken(#1a73e8, 15%);
+    text-decoration: underline;
+  }
 }
+
 
 /*
   Blockquote
 */
 
 blockquote {
-  margin: 10px 20px 10px;
-  padding: 0px 15px;
-  border-left: 0.25em solid #ccc;
-  color: #999;
-  line-height: 1.5;
+  border-left: 0.25em solid #4A916C;
+  color: #555;
+  background: #f0f5f1;
+  padding: 0.5em 1em;
 }
+
 
 /**
  * Tables
@@ -122,12 +132,24 @@ th, td {
 }
 
 .menu-list a {
-  color: #6c7ae0; /* Example: coral/salmon */
+  color: #6c7ae0;
   text-decoration: none;
   font-weight: bold;
 
   &:hover {
     color: #4a5ac8; /* darker on hover */
+    text-decoration: underline;
+  }
+}
+
+
+.menu-list a {
+  color: #4A916C; /* medium green */
+  text-decoration: none;
+  font-weight: bold;
+
+  &:hover {
+    color: #2A5D34; /* dark forest green */
     text-decoration: underline;
   }
 }

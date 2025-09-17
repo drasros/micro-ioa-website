@@ -16,10 +16,10 @@ Today's environmental footprinting relies on broad sector averages, obscuring re
 
 It's the foundation for:
 
-- ✅ Truly progressive environmental taxes.
-- ✅ Verifiable "green" investing and spending.
-- ✅ Empowering consumers and citizens with accurate data.
-- ✅ Holding corporations accountable for their entire supply chain.
+- <i class="fa-solid fa-scale-balanced" style="color:#6BA368;"></i> Truly progressive environmental taxes.  
+- <i class="fa-solid fa-leaf" style="color:#6BA368;"></i> Verifiable "green" investing and spending.  
+- <i class="fa-solid fa-user-check" style="color:#6BA368;"></i> Empowering consumers and citizens with accurate data.  
+- <i class="fa-solid fa-building-columns" style="color:#6BA368;"></i> Holding corporations accountable for their entire supply chain.
 
 ## A Collective, Emerging Field
 

@@ -11,3 +11,5 @@ assets/css/*.css.map
 # Jekyll caches
 .jekyll-cache/
 .sass-cache/
+
+.idea

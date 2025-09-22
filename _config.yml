@@ -10,6 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 url: "https://micro-ioa.org"
+baseurl: ""
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "μ-IOA"

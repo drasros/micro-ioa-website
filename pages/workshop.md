@@ -6,7 +6,7 @@ permalink: /workshop
 
 While the base ideas for micro-scale environmental accounting are taking shape, significant theoretical and practical challenges remain. Turning this vision into a working global system will require a concerted, collaborative effort.
 
-To help drive this effort forward, **Francis Charpentier** and I are initiating a workshop series on MicroIOA, **with the support of CITEPA - Jerôme Boutang**. The goal is to bring together researchers, practitioners, and policy experts to:
+To help drive this effort forward, **Francis Charpentier** and I are initiating a workshop series on μ-IOA, **with the support of CITEPA - Jerôme Boutang**. The goal is to bring together researchers, practitioners, and policy experts to:
 
   - 🔍 **Diagnose** the key theoretical and practical blockage points.
   - 🧭 **Prioritize** the most critical research questions needing solutions.

@@ -4,4 +4,4 @@ title: Resources
 permalink: /resources
 ---
 
-Selected material
+Selected material: coming soon...

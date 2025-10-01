@@ -5,3 +5,4 @@ permalink: /resources
 ---
 
 Selected material: coming soon...
+

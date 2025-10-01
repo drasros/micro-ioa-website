@@ -29,4 +29,4 @@ While the theoretical foundations are taking shape, the vast work of building th
 
 ## My contribution
 
-When I first engaged with this field, I noticed some key theoretical gaps in answering a basic question: _how can we actually build a μ-IOA system?_ My work so far has focused on clarifying these, particularly the formulation of **bidirectional responsibility** and a practical **core data model** for micro-scale analysis. More details are on the [Early Note](/note/) and [Publications](/publications/) pages. 
+When I first engaged with this field, I noticed some key theoretical gaps in answering a basic question: _how can we actually build a μ-IOA system?_ My work so far has focused on clarifying these, particularly the formulation of **bidirectional responsibility** and a practical **core data model** for micro-scale analysis. More details are on the [Early Note](/note) and [Publications](/publications) pages. 

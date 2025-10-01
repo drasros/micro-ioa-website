@@ -24,7 +24,7 @@ The note consolidates two key ideas that I believe are crucial for making micro-
     
 2. **The Data Bridge:** The biggest theoretical and practical hurdle has been the data. While the need for granularity is acknowledged, it was never clear (to my knowledge) how to systematically construct the massive, disaggregated Input-Output table required for the calculation. This note provides that missing link: a clear formulation for building a fine-scale economic model from two practical data sources—the **Process Table** (what an entity uses to make its products) and the **Sales Table** (who sells what to whom). 
 
-This paper is very much a work-in-progress, shared in the spirit of open collaboration. The current plan is to develop these ideas further and transform this single note into two more focused academic papers. You can follow their progress on the **[Publications](/publications/)** page. 
+This paper is very much a work-in-progress, shared in the spirit of open collaboration. The current plan is to develop these ideas further and transform this single note into two more focused academic papers. You can follow their progress on the **[Publications](/publications)** page. 
 
 **[Read the full note (PDF)](/assets/pdf/note_v1.1.pdf)**
 

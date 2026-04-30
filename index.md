@@ -8,25 +8,27 @@ permalink: /
 
 Our economies are depleting finite environmental assets (EAs) – from clean air to rare metals – at an unsustainable rate. To navigate the coming challenges, we must transition from mindless consumption to mindful governance. But effective governance is impossible without **precise, individual-level accounting**.
 
-Today's environmental footprinting relies on broad sector averages, obscuring responsibility and hindering effective policy. We need to move **Beyond Sector Averages**.
+The landscape of today's environmental footprinting is broken.
+The two major methods (LCA and EEIO) have complementary strengths but are mathematically incompatible.
+Current hybrid approaches attempt to bridge them, but require case-specific reconciliation.
 
 ## What is μ-IOA?
 
-**Micro-Scale Input-Output Analysis (μ-IOA)** is a methodological framework to calculate the environmental footprint of _every product_ and _every income_, by tracing environmental impacts through the entire web of economic transactions.
+**Micro-Scale Input-Output Analysis (μ-IOA)** is a mathematical framework that unifies EEIO and LCA into a single formalism. 
 
-It's the foundation for:
+It opens the way to calculating the environmental footprint of _every product_ and _every income_, by tracing environmental impacts through the entire web of economic transactions.
+
+It can be the foundation for:
 
 - <i class="fa-solid fa-scale-balanced" style="color:#6BA368;"></i> Truly progressive environmental taxes.  
 - <i class="fa-solid fa-leaf" style="color:#6BA368;"></i> Verifiable "green" investing and spending.  
 - <i class="fa-solid fa-user-check" style="color:#6BA368;"></i> Empowering consumers and citizens with accurate data.  
 - <i class="fa-solid fa-building-columns" style="color:#6BA368;"></i> Holding corporations accountable for their entire supply chain.
 
+**[Read the preprint (PDF)](/assets/pdf/zijkl.pdf)**
+
 ## A Collective, Emerging Field
 
-This vision for granular environmental accounting is shared by a growing community. The role I'm trying to play is to help _rigorously formalize the core ideas_ and _bring people together._
+This vision for granular environmental accounting is shared by a growing community. The theoretical foundations are taking shape, but the vast work of building data standards and real-world tools lies ahead.
 
-While the theoretical foundations are taking shape, the vast work of building the data standards and tools for real-world adoption lies ahead. This site is a small hub for this collective effort.
-
-## My contribution
-
-When I first engaged with this field, I noticed some key theoretical gaps in answering a basic question: _how can we actually build a μ-IOA system?_ My work so far has focused on clarifying these, particularly the formulation of **bidirectional responsibility** and a practical **core data model** for micro-scale analysis. More details are on the [Early Note](/note) and [Publications](/publications) pages. 
+This site serves as a reference for the mathematical framework that can underpin this collective effort.

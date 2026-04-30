@@ -4,14 +4,10 @@ title: Publications
 permalink: /publications
 ---
 
-Preprints based on the early research note are currently in preparation.
+Here you can find the preprint of the paper that describes µ-IOA: 
 
-- **Environmental Impact Attribution with IOA: a Unified Bidirectional Formalism**  
-    _(Presents a unified view of environmental IOA, clarifying the relationships between different formulations for product and income footprints.)_
-    
+- **µIOA: A Micro-Scale Foundation for Environmental-Economic Accounting**
+    _(Presents the full theory for unifying LCA and EEIO, and a numerical application on a simulated small economy)_
 
+**[Read the preprint (PDF)](/assets/pdf/zijkl.pdf)**
 
-- **Beyond Sector Averages: Disaggregated Input-Output Methods for Individual-Level Environmental Accounting**  
-    _(Provides, to my knowledge, the first formulation to build a micro-scale IO model from practical process and transaction data.)_
-    
-Preprints will be linked here upon completion.

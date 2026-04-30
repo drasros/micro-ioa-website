@@ -8,12 +8,12 @@ google-ID: '' # 'UA-112060364-2'
 
 menu:
 # - {name: 'μ-IOA',  url: 'micro-ioa'}
-- {name: 'Early Note', url: 'note'}
+# - {name: 'Early Note', url: 'note'}
 - {name: 'Publications',       url: 'publications'}
-- {name: 'Videos',      url: 'videos'}
-- {name: 'Resources',      url: 'resources'}
+# - {name: 'Videos',      url: 'videos'}
+# - {name: 'Resources',      url: 'resources'}
 - {name: 'Data & Applications',      url: 'data' }
-- {name: 'Workshops & Challenges',      url: 'workshop' }
+# - {name: 'Workshops & Challenges',      url: 'workshop' }
 - {name: 'Support us!',      url: 'support' }
 - {name: 'About',              url: 'about'}
 

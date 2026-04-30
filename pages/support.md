@@ -16,6 +16,7 @@ We are particularly interested in connecting with:
 
 🤝 **Strategic Partners** – Bridging theory and real-world adoption
 
-While core theoretical work continues, we're already looking ahead to our next ambition: transforming these ideas into practical, scalable tools for environmental accountability.
+While core theoretical work continues, we're already looking ahead to 
+transfering these ideas to LCA/EEIO builders. 
 
 Interested in contributing? **👉 [Get in touch!](https://tally.so/r/3qyvdO)**
